@@ -8,8 +8,6 @@ public class EmailapiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmailapiApplication.class, args);
-		System.out.println("Hello");
 
 	}
-	//System.out.print("Hello world");
 }
